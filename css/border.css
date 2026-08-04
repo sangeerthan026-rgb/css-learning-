@@ -1,0 +1,14 @@
+.container1{
+    border-width:3px;
+    border-color:rgb(75,244,29);
+    border-style:solid;
+
+}
+.container2{
+    border: 3px rgb(0,60,255) solid;
+    border-radius:150px;
+
+}
+.container4{
+    border-radius:500px;
+}
