@@ -1,0 +1,24 @@
+.container1{
+    border: 2px;
+    background-color: rgb(214,99,23);
+    box-shadow: 10px 15px 6px rgb(266,165,32);
+    margin-bottom: 45px;
+    padding:20px;
+}
+
+.container2{
+    visibility: show;
+    background-color: rgb(233, 241, 241);
+    box-shadow: 10px 15px 6px rgb(219, 222, 222);
+    border: 2px;
+    margin-bottom: 30px;
+}
+
+.container3{
+    visibility:show;
+    border: 2px solid green;
+    background-color: green;
+    box-shadow: 10px 15px 6px greenyellow;
+    margin-bottom: 45px;
+    padding: 20px;
+}
